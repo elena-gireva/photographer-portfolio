@@ -1,0 +1,25 @@
+.navbar {
+    font-family: 'Playfair Display', serif;
+}
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    font-size: larger;
+}
+.carousel, .pricing-header, .row {
+    background-color: #FAE0DF;
+}
+#upbutton {
+    background: url("images/up7.png") no-repeat top left;
+    height: 100px;
+    width: 100px;
+    bottom: 30px;
+    right: 30px;
+    cursor: pointer;
+    display: none;
+    position: fixed;
+    /* border: black dotted 2px; */
+    z-index: 999;
+}
+
+
